@@ -28,16 +28,22 @@ The last 19 fields are the genres.  A 1 indicates the movie is of that genre, a 
 ## Architectures
 ### 1. Matrix Factorization
 Architecture
+
 ![Matrix-Factorization](https://user-images.githubusercontent.com/39268487/129469769-360f882d-4117-491d-b974-3e940d005134.png)
 
+
 Values & Loss of ratings prediction
+
 ![matrix-factorization (2)](https://user-images.githubusercontent.com/39268487/129469795-0241049f-6c0a-4715-b696-5f7b293fe0af.PNG)
 
 
 ### 2. Hybrid Neural Collaborative Filtering
 Architecture
+
 ![Hybrid-Diagram-2](https://user-images.githubusercontent.com/39268487/129469780-fb23c2f1-2494-4893-a325-be6cb7c556a6.png)
 
+
 Neural Embedding Layers
+
 ![hybrid](https://user-images.githubusercontent.com/39268487/129469804-6eaaa84f-b79b-4fc9-872b-340470419a67.PNG)
 
