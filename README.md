@@ -42,8 +42,16 @@ Architecture
 
 ![Hybrid-Diagram-2](https://user-images.githubusercontent.com/39268487/129469780-fb23c2f1-2494-4893-a325-be6cb7c556a6.png)
 
+Embedding Layer
+
+![embedding](https://user-images.githubusercontent.com/39268487/129469844-edde4d90-7c6b-45fd-857c-2a7c11e2b8d5.png)
+
 
 Neural Embedding Layers
 
 ![hybrid](https://user-images.githubusercontent.com/39268487/129469804-6eaaa84f-b79b-4fc9-872b-340470419a67.PNG)
+
+### Loss of Matrix Factorization & Hybrid
+
+![both-recommender](https://user-images.githubusercontent.com/39268487/129469835-4846457b-249c-4adf-8ee7-33f04769a240.PNG)
 
